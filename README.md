@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JS & Web-Graphics ..
-- 🌱 I’m currently learning Typescript, Rust..
-- 🤔 I’m looking for help with Css-Next
-- 📫 Contact me: <code>Germxu#gmail.com</code>
+- 🔭 I’m currently working on TS & Web-Graphics ..
+- 🌱 I’m currently learning English, SVG..
+- 🤔 I’m looking for help for remote..
+- 📫 Contact me: <code>Germxu@gmail.com</code>
 
 **⚠️ China Forbidden Content** 
