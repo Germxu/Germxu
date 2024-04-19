@@ -5,4 +5,4 @@
 - 🤔 I’m looking for help for remote..
 
 
-**⚠️ China Forbidden Content** 
+**⚠️ Repository Includes China Forbidden Content** (如果发现我的代码被中国网站窃取, 我将根据违禁内容举报平台)
